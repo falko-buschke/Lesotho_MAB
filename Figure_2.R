@@ -41,7 +41,7 @@ axis(2, at=rev(plt),labsQ2, las=1, cex.axis=1.1)
 mtext("(b)",cex=2, side = 3, adj = -0.2, line =1)
 
 ##################
-#    Panel B     #
+#    Panel C     #
 ##################
 
 labsQ3 <- c("Unfair distribution\nof benefits",
